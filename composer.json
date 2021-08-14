@@ -1,0 +1,19 @@
+{
+    "name": "andri-sudarmawijaya/codeigniter-boilerplate",
+    "description": "Codeigniter boilerplate",
+    "type": "project",
+    "require": {
+        "kenjis/codeigniter-composer-installer": "v0.5.*"
+    },
+    "require-dev": {
+        "mikey179/vfsstream": "^1.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andri Sudarmawijaya",
+            "email": "andri.sudarmawijaya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
