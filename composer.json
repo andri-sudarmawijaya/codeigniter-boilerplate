@@ -3,7 +3,7 @@
     "description": "Codeigniter boilerplate",
     "type": "project",
     "require": {
-        "kenjis/codeigniter-composer-installer": "v0.5.*"
+        "codeigniter/framework": "^3.1"
     },
     "require-dev": {
         "mikey179/vfsstream": "^1.6"
