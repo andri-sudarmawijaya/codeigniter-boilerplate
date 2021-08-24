@@ -39,7 +39,7 @@ $autoload['libraries'] = array('form_validation');
 ```
 
 ### Import DB tables
-Import using migration or database.sql file
+Import using migration or database.sql file from[Smarty ACL](https://github.com/rubensrocha/codeigniter-smarty-acl).
 
 ## Install theme
 ```bash
