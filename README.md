@@ -36,6 +36,10 @@ Add to $autoload['helper']¹
 ```php
 $autoload['helper'] = array('url');
 ```
+Add to $autoload['libraries']¹
+```php
+$autoload['libraries'] = array('form_validation');
+```
 
 ### Import DB tables
 Import using migration or database.sql file
