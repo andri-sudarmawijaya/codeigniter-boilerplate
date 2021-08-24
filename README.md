@@ -31,7 +31,7 @@ $autoload['packages'] = array(APPPATH.'third_party/SmartyAcl');
 ```
 Add to $autoload['helper']¹
 ```php
-$autoload['helper'] = array('url');
+$autoload['helper'] = array('url','form');
 ```
 Add to $autoload['libraries']¹
 ```php
